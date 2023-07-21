@@ -1,0 +1,79 @@
+body {
+	background: #98d39c;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+header {
+	font-size: 25px;
+	background: #98d39c;
+	padding: 5px;
+	text-align: center;
+	text-shadow: 15px 15px 15px;
+}
+
+nav {
+	background: #1E8449;
+	padding: 5px;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	font: bold 20px verdana;
+	margin-right: 40px;
+}
+
+h2 {
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 23px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.tamañoli li {
+	font-size: 20px;
+}
+
+.sub {
+	font-size: 30px;
+	border: 3px solid black;
+	background-color: #1E8449;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 5px;
+}
+
+.font {
+	font-size: 20px;
+}
+
+img {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.pie {
+	clear: both;
+	padding: 10px;
+	border: 2px solid black;
+	margin: 0px;
+	background: #1E8449;
+	text-align: center;
+}
+
+.pie a {
+	margin-right: 20px;
+}
